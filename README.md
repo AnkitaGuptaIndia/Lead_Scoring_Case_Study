@@ -17,7 +17,7 @@ A dataset is provided with 9240 row entries and 37 features to identify the conv
 There are various features involved like Lead Source, Total Time Spent on Website, Total Visits, Last Activity, etc. which may or may not be useful in ultimately deciding whether a lead will be converted or not. The target variable, in this case, is the column ‘Converted’ which tells whether a past lead was converted or not wherein 1 means it was converted and 0 means it wasn’t converted.
 
 ## To solve the above Problem we have provided below submissions -
-Jupyter Notbook - Python Code
-PDF - Summary of the problem statement
-PPT - details of the analysis
+Jupyter Notbook - Python Code  
+PDF - Summary of the problem statement  
+PPT - details of the analysis  
 Solution of Assignment Subjective Questions 
